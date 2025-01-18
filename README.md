@@ -1,4 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Delton! <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+
+<h2>👨‍💻 Projects:</h2>
+
+- <b>Establishing a Honeypot with Cowrie</b>
+  - [Establishing a Honeypot with Cowrie](https://github.com/deltonrobinson)
+- <b>Setting up a Local Active Directory in Azure</b>
+  - [Setting up a Local Active Directory in Azure](https://github.com/deltonrobinson) <b><i>(Potentially NSFW)</b></i>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 **deltonrobinson/deltonrobinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
