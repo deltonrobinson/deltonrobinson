@@ -3,9 +3,11 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Establishing a Honeypot with Cowrie</b>
-  - [Establishing a Honeypot with Cowrie](https://github.com/deltonrobinson)
+  - [Establishing a Honeypot with Cowrie](https://github.com/deltonrobinson/cowrie-honeypot)
+<!--
 - <b>Setting up a Local Active Directory in Azure</b>
   - [Setting up a Local Active Directory in Azure](https://github.com/deltonrobinson) <b><i>(Potentially NSFW)</b></i>
+-->
 
 
 <h2> 🤳 Connect with me:</h2>
