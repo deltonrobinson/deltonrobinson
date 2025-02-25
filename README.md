@@ -4,6 +4,8 @@
 
 - <b>Establishing a Honeypot with Cowrie</b>
   - [Establishing a Honeypot with Cowrie](https://github.com/deltonrobinson/cowrie-honeypot)
+- <b>Performing SQL Injection Attacks within A Virtual Environment</b>
+  - [SQL Injection Attacks](https://github.com/deltonrobinson/MS2/SQL-Injection)
 <!--
 - <b>Setting up a Local Active Directory in Azure</b>
   - [Setting up a Local Active Directory in Azure](https://github.com/deltonrobinson) <b><i>(Potentially NSFW)</b></i>
@@ -13,9 +15,9 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DeltonRobinson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/deltonrobinson
 
 <!--
 **deltonrobinson/deltonrobinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
