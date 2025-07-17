@@ -1,4 +1,4 @@
-<h1>Hi, I'm Delton! <a href="https://www.linkedin.com/in/deltonrobinson/">Cybersecurity Professional</a>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/deltonrobinson/">Delton!</a>
 
 <h2>👨‍💻 Projects:</h2>
 
