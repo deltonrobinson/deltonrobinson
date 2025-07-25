@@ -1,37 +1,40 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/deltonrobinson/">Delton!</a>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/deltonrobinson/" target="_blank">Delton 👋</a></h1>
 
-<h2>👨‍💻 Projects:</h2>
+<p align="center">Aspiring cybersecurity professional | CTF enjoyer | Builder of breakable things</p>
 
-- <b>[Establishing a Honeypot with Cowrie](https://github.com/deltonrobinson/cowrie-honeypot)</b>
-- <b>[CTF Writeups](https://github.com/deltonrobinson/ctf-writeups)</b>
-  - [picoCTF](https://github.com/deltonrobinson/ctf-writeups/tree/main/picoCTF)
-<!-- - <b>Performing SQL Injection Attacks within A Virtual Environment</b>
-  - [Error Based](https://github.com/deltonrobinson/metasploitable2/tree/main/SQL%20Injection/Error%20Based)
- <!-- - [Union Based](https://github.com/deltonrobinson/metasploitable2/tree/main/SQL%20Injection/Union%20Based) 
+---
 
-- <b>Setting up a Local Active Directory in Azure</b>
-  - [Setting up a Local Active Directory in Azure](https://github.com/deltonrobinson) <b><i>(Potentially NSFW)</b></i>
--->
+### 🧠 Projects & Labs
 
+- 🔐 <b><a href="https://github.com/deltonrobinson/cowrie-honeypot">Cowrie Honeypot Deployment</a></b>  
+  Simulated an internal server with exposed services (SSH, FTP, SMB, HTTP, MySQL) in a VM lab to analyze attacker behavior and log intrusion attempts.
 
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="DeltonRobinson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/deltonrobinson
+- 🎯 <b><a href="https://github.com/deltonrobinson/ctf-writeups">CTF Writeups</a></b>  
+  Writeups from challenges across multiple platforms, with tooling, methodology, and lessons learned.
+  - 📁 <a href="https://github.com/deltonrobinson/ctf-writeups/tree/main/picoCTF">picoCTF</a> — beginner to intermediate-level challenges.
 
 <!--
-**deltonrobinson/deltonrobinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧪 <b>Metasploitable2 Lab: SQL Injection Attacks</b> *(currently private)*  
+  Explored error-based and union-based injection techniques in a safe environment. Writeups coming soon.
 
-Here are some ideas to get you started:
+- 🏗️ <b>Setting Up a Local Active Directory (Azure)</b> *(coming soon)*  
+  Deploying a test domain for practicing identity and access control. 
+-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/deltonrobinson/" target="_blank">
+    <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
+    LinkedIn
+  </a>
+</p>
+
+---
+
+<!--
+🛠️ Currently learning: reverse engineering, log analysis, and Active Directory exploitation  
+📫 Reach out if you're working on CTFs, labs, or beginner-friendly security projects!
 -->
