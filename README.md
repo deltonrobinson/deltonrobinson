@@ -4,7 +4,9 @@
 
 - <b>Establishing a Honeypot with Cowrie</b>
   - [Establishing a Honeypot with Cowrie](https://github.com/deltonrobinson/cowrie-honeypot)
-- <b>Performing SQL Injection Attacks within A Virtual Environment</b>
+- <b>CTF Writeups</b>
+  - [picoCTF](https://github.com/deltonrobinson/ctf-writeups/picoCTF)
+<!-- - <b>Performing SQL Injection Attacks within A Virtual Environment</b>
   - [Error Based](https://github.com/deltonrobinson/metasploitable2/tree/main/SQL%20Injection/Error%20Based)
  <!-- - [Union Based](https://github.com/deltonrobinson/metasploitable2/tree/main/SQL%20Injection/Union%20Based) 
 
