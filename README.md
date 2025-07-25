@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/deltonrobinson/" target="_blank">Delton 👋</a></h1>
 
-<p align="center">Aspiring cybersecurity professional | CTF enjoyer | Builder of breakable things</p>
+<p align="center">Aspiring cybersecurity professional | CTF enjoyer</p>
 
 ---
 
